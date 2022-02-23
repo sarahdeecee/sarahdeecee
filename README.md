@@ -1,34 +1,46 @@
-## Hello and welcome!
-![](profile/data/profile-banner.png)
+# Hello and welcome!
+![](data/profile-banner.png)
 My name is **Sarah Dela Cruz** and I'm a full stack web developer. 
+**Pronouns**: She/Her
 
-### About Me
+## About Me
 <hr>
 
-### Stack
+- 🌱 I’m currently learning **TypeScript and Vue**
+- ✨ I'm passionate about **accessibility and ease of use**
+
+## Current Projects
+- [karaoke-saver](https://github.com/MSoup/karaoke-helper)
+  - A web app that lets you save song lists you want to sing
+- [junior](https://github.com/Alex-Reyne/junior)
+  - A web app for new developers to create a portfolio with projects
+- [lechon-tracker](https://github.com/sarahdeecee/lechon-tracker)
+  - A customized tracker for organizing production schedules and calculating product costs
+
+## Stack
 <hr>
 
-#### Languages:
+**Languages:**
 - JavaScript
 - Ruby
 - HTML
 - CSS
-#### Frameworks:
+- SQL
+
+**Frameworks:**
 - Node
 - Express
 - React
 - Rails
-#### Libraries:
+
+**Libraries:**
 - React
 - jQuery
 
-<!-- ### Current Projects
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+<hr>
+
+- Diploma of Web Development (Lighthouse Labs)
+- Japanese Language Proficiency Test (JLPT) N1
+- JET Programme Translation and Interpretation Course
+
