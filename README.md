@@ -4,8 +4,6 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 **Pronouns**: She/Her
 
 ## About Me
-<hr>
-
 - 🌱 I’m currently learning **TypeScript and Vue**
 - ✨ I'm passionate about **accessibility and ease of use**
 
@@ -18,8 +16,6 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
   - A customized tracker for organizing production schedules and calculating product costs
 
 ## Stack
-<hr>
-
 **Languages:**
 - JavaScript
 - Ruby
@@ -38,8 +34,6 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 - jQuery
 
 ## Certifications
-<hr>
-
 - Diploma of Web Development (Lighthouse Labs)
 - Japanese Language Proficiency Test (JLPT) N1
 - JET Programme Translation and Interpretation Course
