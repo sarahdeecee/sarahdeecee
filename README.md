@@ -1,5 +1,5 @@
 # Hello and welcome!
-![](data/profile-banner.png)
+![A woman at a computer, Sarah Dela Cruz: Full Stack Web Developer](data/profile-banner.png "Header Image")
 My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 
 **Pronouns**: She/Her
