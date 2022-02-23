@@ -1,11 +1,29 @@
-### Hi there 👋
+## Hello and welcome!
+![](profile/data/profile-banner.png)
+My name is **Sarah Dela Cruz** and I'm a full stack web developer. 
 
-<!--
-**sarahdeecee/sarahdeecee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+<hr>
 
-Here are some ideas to get you started:
+### Stack
+<hr>
 
-- 🔭 I’m currently working on ...
+#### Languages:
+- JavaScript
+- Ruby
+- HTML
+- CSS
+#### Frameworks:
+- Node
+- Express
+- React
+- Rails
+#### Libraries:
+- React
+- jQuery
+
+<!-- ### Current Projects
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
