@@ -47,6 +47,7 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 ## Certifications
 - **Lighthouse Labs:** Diploma of Web Development
 - **freeCodeCamp:** [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sdc/javascript-algorithms-and-data-structures)
+- **freeCodeCamp:** [Responsive Web Design](https://www.freecodecamp.org/certification/sdc/responsive-web-design)
 - Japanese Language Proficiency Test (JLPT) N1
 - JET Programme Translation and Interpretation Course
 
