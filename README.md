@@ -13,12 +13,12 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 - ✨ I'm passionate about **accessibility and ease of use**
 
 ## Current Projects
+- [lechon-tracker](https://github.com/sarahdeecee/lechon-tracker-ruby)
+  - A customized tracker for organizing production schedules and calculating product costs
 - [karaoke-saver](https://github.com/MSoup/karaoke-helper)
   - A web app that lets you save song lists you want to sing
 - [junior](https://github.com/Alex-Reyne/junior)
   - A web app for new developers to create a portfolio with projects
-- [lechon-tracker](https://github.com/sarahdeecee/lechon-tracker)
-  - A customized tracker for organizing production schedules and calculating product costs
 
 ## Stack
 **Languages:**
