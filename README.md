@@ -13,10 +13,14 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 - ✨ I'm passionate about **accessibility and ease of use**
 
 ## Current Projects
+
+### Deployed
 - [Portfolio](https://sarahdeecee.github.io/profile/)
   - Personal portfolio and profile page
-- [Anya Soundboard](https://github.com/sarahdeecee/anya-soundboard)
+- [Anya Soundboard](http://anya-soundboard.herokuapp.com/)
   - A soundboard for the fictional character **Anya Forger**
+
+### Not deployed
 - [Karaoke Saver](https://github.com/MSoup/karaoke-helper)
   - A web app that lets you save song lists you want to sing
 - [Lechon Tracker](https://github.com/sarahdeecee/lechon-tracker-ruby)
