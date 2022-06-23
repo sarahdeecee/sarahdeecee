@@ -9,14 +9,14 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarah.delacruz)
 
 ## About Me
-- 🌱 I’m currently learning **TypeScript and Vue**
+- 🌱 I’m currently learning **TypeScript and Redux**
 - ✨ I'm passionate about **accessibility and ease of use**
 
 ## Current Projects
+- [Portfolio](https://sarahdeecee.github.io/profile/)
+  - Personal portfolio and profile page
 - [karaoke-saver](https://github.com/MSoup/karaoke-helper)
   - A web app that lets you save song lists you want to sing
-- [junior](https://github.com/Alex-Reyne/junior)
-  - A web app for new developers to create a portfolio with projects
 - [lechon-tracker](https://github.com/sarahdeecee/lechon-tracker)
   - A customized tracker for organizing production schedules and calculating product costs
 
@@ -50,4 +50,3 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 - **freeCodeCamp:** [Responsive Web Design](https://www.freecodecamp.org/certification/sdc/responsive-web-design)
 - Japanese Language Proficiency Test (JLPT) N1
 - JET Programme Translation and Interpretation Course
-
