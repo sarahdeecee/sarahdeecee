@@ -45,8 +45,12 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Certifications
+
+### Coding
 - **Lighthouse Labs:** Diploma of Web Development
 - **freeCodeCamp:** [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sdc/javascript-algorithms-and-data-structures)
 - **freeCodeCamp:** [Responsive Web Design](https://www.freecodecamp.org/certification/sdc/responsive-web-design)
+
+### Japanese
 - Japanese Language Proficiency Test (JLPT) N1
 - JET Programme Translation and Interpretation Course
