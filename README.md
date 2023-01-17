@@ -17,7 +17,7 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 ### Deployed
 - [Portfolio](https://sarahdeecee.github.io)
   - Personal portfolio and profile page
-- [Anya Soundboard](http://anya-soundboard.herokuapp.com/)
+- [Anya Soundboard](https://anya-soundboard.onrender.com)
   - A soundboard for the fictional character **Anya Forger**
 
 ### Not deployed
