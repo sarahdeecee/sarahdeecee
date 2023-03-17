@@ -60,3 +60,6 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 ### Japanese
 - Japanese Language Proficiency Test (JLPT) N1
 - JET Programme Translation and Interpretation Course
+
+### Code Wars
+![Codewars](https://github.r2v.ch/codewars?user=sarahdeecee)
