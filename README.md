@@ -63,4 +63,4 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 - JET Programme Translation and Interpretation Course
 
 ### Code Wars
-![Codewars](https://github.r2v.ch/codewars?user=sarahdeecee)
+![Codewars](https://github.r2v.ch/codewars?user=sarahdeecee&stroke=%23BB432C)
