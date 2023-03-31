@@ -9,7 +9,7 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarah.delacruz)
 
 ## About Me
-- 🌱 I’m currently learning **TypeScript and Redux**
+- 🌱 I’m currently learning **TypeScript**
 - ✨ I'm passionate about **accessibility and ease of use**
 
 ## Current Projects
@@ -19,10 +19,10 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
   - Personal portfolio and profile page
 - [Anya Soundboard](https://anya-soundboard.onrender.com)
   - A soundboard for the fictional character **Anya Forger**
+- [Pokemon from Memory Generator](https://pokemon-from-memory.onrender.com/) (in progress)
+  - Generates pokemon from selected game generation. Show/hide pictures and statistics.
 
 ### Not deployed
-- [Karaoke Saver](https://github.com/MSoup/karaoke-helper)
-  - A web app that lets you save song lists you want to sing
 - [Lechon Tracker](https://github.com/sarahdeecee/lechon-tracker-ruby)
   - A customized tracker for organizing production schedules and calculating product costs
 
