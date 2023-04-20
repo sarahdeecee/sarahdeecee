@@ -12,14 +12,17 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 - 🌱 I’m currently learning **TypeScript**
 - ✨ I'm passionate about **accessibility and ease of use**
 
-## Current Projects
-
-### Deployed
+## Highlighted Projects
 - [Portfolio](https://sarahdeecee.github.io)
   - Personal portfolio and profile page
 - [Anya Soundboard](https://anya-soundboard.onrender.com)
   - A soundboard for the fictional character **Anya Forger**
-- [Pokemon from Memory Generator](https://pokemon-from-memory.onrender.com/) (in progress)
+
+## Current Projects
+### Deployed
+- [Grocery Budgeting](https://budget-shopper.onrender.com/)
+  - Create grocery lists. Add prices and quantities and see your rolling total to stay under budget.
+- [Pokemon from Memory Generator](https://pokemon-from-memory.onrender.com/)
   - Generates pokemon from selected game generation. Show/hide pictures and statistics.
 
 ### Not deployed
