@@ -9,7 +9,7 @@ My name is **Sarah Dela Cruz** and I'm a full stack web developer.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarah.delacruz)
 
 ## About Me
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Amazon Web Services**
 - ✨ I'm passionate about **accessibility and ease of use**
 
 ## Highlighted Projects
